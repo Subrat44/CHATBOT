@@ -1,0 +1,6 @@
+{
+  "name": "Rule-Based Chatbot",
+  "description": "An interactive, rule-based chatbot builder and simulator. Experience how pattern matching, normalization, and if-else logic form the foundations of natural language processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
